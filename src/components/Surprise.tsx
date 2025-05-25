@@ -16,8 +16,8 @@ const Surprise = () => {
     "Play Music",
     "Decorate",
     "Fly the Balloons",
-    "Let's Cut the Cake Madam Ji",
-    "Well, I Have a Message for You Madam Ji"
+    "Let's Cut the Cake BCHHAA",
+    "Well, I Have a Message for You BCHHAA 🎉🎂❤",
   ];
 
   const handleClick = () => {
@@ -64,7 +64,7 @@ const Surprise = () => {
           <img
             src={Banner}
             className="w-full max-w-xs md:max-w-md h-auto mt-10 pt-10"
-            alt="Happy Birthday"
+            alt="Happy Birthday BCHHAA 🎉🎂❤"
           />
         </motion.h1>
       )}
